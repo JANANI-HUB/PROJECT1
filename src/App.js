@@ -1,12 +1,12 @@
 import "./App.css";
 import React from 'react';
-import Page4 from './Page4';
+import Form from './Form';
 
 function App(){
 return (
-  
-  
-  <Page4/>
+  <div>  
+  <Form/>
+  </div>
 );
 }
 export default  App
