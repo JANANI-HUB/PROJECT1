@@ -1,0 +1,94 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+    background-color: rgb(236, 132, 113);
+   
+  }
+  
+  .right {
+    right: 0;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: garamond;
+    color: rgb(240, 138, 109);
+    font-weight: bold;
+  }
+  
+  .centered img {
+    width: 400px;
+    height:430px; 
+  }
+
+  label{
+    font-family: garamond;
+    font-weight: bold;
+    color: rgb(63, 30, 30);
+    font-size: 18px;
+  }
+
+  input[type=text], input[type=password] {
+    width:200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    font-family:garamond;
+  }
+
+  .login{
+  background-color: rgb(255, 255, 255);       
+  text-align: center;
+  height:500px;
+  width:350px;
+  opacity:0.8;
+  }
+
+  h2{
+    color:black;
+    background-color: rgb(63, 233, 176); 
+    height:50px;
+    padding-top: 15px;  
+  }
+  button{
+    width:120px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    background-color: rgb(63, 233, 176);
+    font-family: garamond;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .s{
+    color:blue;
+    font-size:18px;
+
+  }
+  .h{
+    color:rgb(243, 124, 98);
+  }
+  
+  

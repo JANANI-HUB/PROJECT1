@@ -1,0 +1,13 @@
+.get{
+    background-color: rgb(255, 255, 255);       
+    text-align: center;
+    height:530px;
+    width:630px;
+    opacity:0.8;
+    margin-top: 40px;
+    font-family: garamond;
+    font-weight: bold;
+}
+table{
+    margin-top: 70px;
+}

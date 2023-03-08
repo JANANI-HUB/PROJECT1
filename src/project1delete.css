@@ -1,0 +1,23 @@
+.delete{
+    background-color: rgb(255, 255, 255);       
+    text-align: center;
+    height:530px;
+    width:650px;
+    opacity:0.8;
+    margin-top: 40px;
+    font-family: garamond;
+    font-weight: bold;
+}
+#dels{
+     background-color: aliceblue;
+     padding-top: 40px;
+     color:rgb(100, 7, 251);
+     font-size: 40px;
+}
+.h{
+    color:black
+}
+.de{
+    color:rgb(9, 117, 117);
+    font-size: 20px;
+}

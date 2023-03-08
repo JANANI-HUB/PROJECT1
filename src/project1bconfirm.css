@@ -1,0 +1,30 @@
+.confirm{
+    background-color: rgb(255, 255, 255);       
+    text-align: center;
+    height:530px;
+    width:650px;
+    opacity:0.8;
+    margin-top: 40px;
+    font-family: garamond;
+    font-weight: bold;
+    
+}
+.p1{
+    padding-top: 50px;
+    color:green;
+    font-size: 40px;
+}
+.p2{
+    color:rgb(1, 133, 209);
+    font-size: 30px;
+}
+.p3{
+    color:rgb(203, 1, 139);
+    font-size: 20px;
+}
+img{
+    height:150px;
+    width:150px;
+}
+   
+    
